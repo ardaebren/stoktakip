@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace WinFormsApp6
 {
-    public partial class GirisSayfası : Form
+    public partial class KullanılanÜrünler : Form
     {
-        public GirisSayfası()
+        public KullanılanÜrünler()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -6,8 +6,6 @@ C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net6.0-windows\W
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Properties.Resources.resources
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.StokArama.resources
-C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.StokEkle.resources
-C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.StokSil.resources
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
@@ -19,3 +17,8 @@ C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\W
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.genruntimeconfig.cache
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\ref\WinFormsApp6.dll
 C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GirisSayfası.resources
+C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GirisSayfasi.resources
+C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Ürünİade.resources
+C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.KullanılanÜrünler.resources
+C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.ÜrünAl.resources
+C:\Users\davut\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.ÜrünEkle.resources

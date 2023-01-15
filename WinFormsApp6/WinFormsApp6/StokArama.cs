@@ -24,14 +24,26 @@ namespace WinFormsApp6
 
         private void button2_Click(object sender, EventArgs e)
         {
-            StokEkle fr2 = new StokEkle();
+            ÜrünEkle fr2 = new ÜrünEkle();
             fr2.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            StokSil fr3 = new StokSil();
+            ÜrünAl fr3 = new ÜrünAl();
             fr3.ShowDialog();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Ürünİade fr4 = new Ürünİade();
+            fr4.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            KullanılanÜrünler fr5 = new KullanılanÜrünler();
+            fr5.ShowDialog();
         }
     }
 }
